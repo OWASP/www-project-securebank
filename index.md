@@ -8,7 +8,7 @@ type: tool
 pitch: SecureBank the most secure fintech banking system
 
 ---
-# SecureBank
+
 
 [![Docker Build status](https://img.shields.io/docker/cloud/build/ssrd/securebank.svg)](https://hub.docker.com/r/ssrd/securebank/builds)
 [![GitHub stars](https://img.shields.io/github/stars/ssrdio/SecureBank?label=Github%20stars)](https://github.com/ssrdio/SecureBank)
