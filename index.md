@@ -2,21 +2,29 @@
 
 layout: col-sidebar
 title: OWASP SecureBank
-tags: example-tag
+tags: securebank
 level: 1
-type: 
-pitch: A very brief, one-line description of your project
+type: tool
+pitch: SecureBank the most secure fintech banking system
 
 ---
+# SecureBank
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+[![Docker Build status](https://img.shields.io/docker/cloud/build/ssrd/securebank.svg)](https://hub.docker.com/r/ssrd/securebank/builds)
+[![GitHub stars](https://img.shields.io/github/stars/ssrdio/SecureBank?label=Github%20stars)](https://github.com/ssrdio/SecureBank)
+[![License](https://img.shields.io/github/license/ssrdio/SecureBank)](https://github.com/ssrdio/SecureBank/blob/master/LICENSE)
 
-layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
+![alt text](https://github.com/ssrdio/SecureBank/raw/master/preview.gif "SecureBankPreview")
 
-title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
+## SecureBank developer playground 
+Nowadays developers face not just new programming, but also security challenges. They are not perceived only as code monkeys but are somewhat forced to know the basics of DevOps, which brings us to SECDEVOPS. And, despite their extensive effort to try and eliminate common vulnerabilities, we can still find them in their applications.
 
-tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
+## SecureBank - developer training
+Our FinTech application project SecureBank shows how developers fail to protect their environment due to a lack of knowledge about the applied ecosystem. We will determine the deployment of docker microservice solutions and where developers misconfigured their systems. Not only security in the configuration, but we still have OWASP Top 10* Web Application Security risks out in the wild. Those vulnerabilities will also be presented in the SecureBank application.
 
-level: For projects, this is your project level (2 - Incubator, 3 - Lab, 4 - Flagship)
+## SecureBank - hacker playground
+The application is not designed just for developers but is also a perfect starting point for hackers to start their path and challenge their skills. 
 
-type: code, tool, documentation, or other
+## Resources 
+* Source code can be found on [GitHub](https://github.com/ssrdio/SecureBank).
+* If you are a breaker just run the docker image from [DockerHub](https://hub.docker.com/r/ssrd/securebank).
