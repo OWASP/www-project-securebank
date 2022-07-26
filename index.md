@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP SecureBank
 tags: securebank
-level: 1
+level: 2
 type: tool
 pitch: SecureBank the most secure fintech banking system
 
